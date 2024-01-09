@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  
+}
+.card{
+  background-color: orange;
+  margin: 0 15px 0 15px;
+  border-radius: 25px;
+  text-align: center;
+}
+p{
+  font-size: 25px;
+  
+}
